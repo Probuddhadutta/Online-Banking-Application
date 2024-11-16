@@ -1,0 +1,9 @@
+# Create a new directory for the project
+mkdir online-banking-app
+cd online-banking-app
+
+# Initialize a Node.js project
+npm init -y
+
+# Install necessary dependencies
+npm install express mysql2 bcryptjs jsonwebtoken cors
